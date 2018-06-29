@@ -40,3 +40,16 @@ git reset --hard 3628164
 
 查看命令历史
 git reflog
+
+
+在创建的分支中修改数据是不会在主分支或其他小分支中显示的
+
+创建一个分支
+git branch 分支名
+切换分支
+
+git checkout 分支名
+
+合并分支
+
+git merge 需要合并的分支名(执行此操作时需要返回 根分支(master))
