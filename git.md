@@ -12,5 +12,6 @@ git add 文件名
 查看状态
 git status
 
-
+删除文件
+rm 文件名
 
